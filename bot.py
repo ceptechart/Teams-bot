@@ -129,4 +129,4 @@ async def on_message(message):
             await f.close()
         os.execv(sys.executable, ['python'] + sys.argv)
 
-client.run('MTE2MDI4ODQ0NDUwNTkyMzU5OA.G_1HwY.uf1HgJUH2KVoUM80ZbfyvdRDTXZQcKEcVM3jxA')
+client.run('########')
